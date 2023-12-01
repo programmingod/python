@@ -1,5 +1,4 @@
 import random
-# library that we use in order to choose
 # on random words from a list of words
 
 name = input("What is your name? ")
