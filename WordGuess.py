@@ -1,5 +1,4 @@
 import random
-# on random words from a list of words
 
 name = input("What is your name? ")
 
