@@ -10,7 +10,7 @@ words = ['rainbow', 'computer', 'science', 'programming',
 		'python', 'mathematics', 'player', 'condition',
 		'reverse', 'water', 'board', 'geeks']
 
-# Function will choose one random
+
 # word from this list of words
 word = random.choice(words)
 
