@@ -11,7 +11,7 @@ words = ['rainbow', 'computer', 'science', 'programming',
 		'reverse', 'water', 'board', 'geeks']
 
 
-# word from this list of words
+
 word = random.choice(words)
 
 
