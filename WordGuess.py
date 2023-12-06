@@ -19,7 +19,7 @@ print("Guess the characters")
 
 guesses = ''
 
-# any number of turns can be used here
+
 turns = 12
 
 
