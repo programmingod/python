@@ -25,7 +25,7 @@ turns = 12
 
 while turns > 0:
 
-	# counts the number of times a user fails
+
 	failed = 0
 
 	# all characters from the input
