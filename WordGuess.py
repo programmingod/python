@@ -28,7 +28,6 @@ while turns > 0:
 
 	failed = 0
 
-	# all characters from the input
 	# word taking one at a time.
 	for char in word:
 
