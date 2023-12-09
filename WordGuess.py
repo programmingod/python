@@ -28,7 +28,7 @@ while turns > 0:
 
 	failed = 0
 
-	# word taking one at a time.
+	
 	for char in word:
 
 		# comparing that character with
