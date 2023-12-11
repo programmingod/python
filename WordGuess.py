@@ -69,7 +69,6 @@ while turns > 0:
 		# then “Wrong” will be given as output
 		print("Wrong")
 
-		# this will print the number of
 		print("You have", + turns, 'more guesses')
 
 		if turns == 0:
