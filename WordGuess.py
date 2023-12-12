@@ -57,7 +57,6 @@ while turns > 0:
 	print()
 	guess = input("guess a character:")
 
-	# every input character will be stored in guesses
 	guesses += guess
 
 	# check input with the character in word
