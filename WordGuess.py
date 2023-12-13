@@ -48,7 +48,6 @@ while turns > 0:
 		# and 'You Win' will be given as output
 		print("You Win")
 
-		# this print the correct word
 		print("The word is: ", word)
 		break
 
