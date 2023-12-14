@@ -58,7 +58,6 @@ while turns > 0:
 
 	guesses += guess
 
-	# check input with the character in word
 	if guess not in word:
 
 		turns -= 1
