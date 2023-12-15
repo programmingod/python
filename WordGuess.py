@@ -62,7 +62,6 @@ while turns > 0:
 
 		turns -= 1
 
-		# if the character doesn’t match the word
 		# then “Wrong” will be given as output
 		print("Wrong")
 
