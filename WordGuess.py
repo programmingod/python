@@ -52,7 +52,7 @@ while turns > 0:
 		break
 
 	# if user has input the wrong alphabet then
-	# it will ask user to enter another alphabet
+
 	print()
 	guess = input("guess a character:")
 
