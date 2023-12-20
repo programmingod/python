@@ -32,7 +32,7 @@ while turns > 0:
 	for char in word:
 
 
-		# the character in guesses
+		# the character in guesse
 		if char in guesses:
 			print(char, end=" ")
 
